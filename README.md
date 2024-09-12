@@ -20,9 +20,9 @@
 
 ### :man_technologist: **About me**
 
-- 🎒 I'm currently majoring in *Computer Science* at ***UFFS***
-- 🌱 Learning ***Web Development*** and ***Mobile Development*** with ***Flutter***  
-- 💘 Lover of *technology* and *web design*
+- 🎒 I'm currently a student in *Computer Science* at ***ENSIAS***
+- 🌱 Learning ***Web Development*** and ***Mobile Development*** with ***Java***  
+- 💘 Lover of *technology*
 
 
 
@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,javascript,flutter,react,php,python,flask,postgres,c,java,figma,vscode,photoshop&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,laravel,react,nextjs,vue,angular,nestjs,git,kubernetes,docker,ansible,c,jenkins,androidstudio,bash,cs,postgres,cassandra,mongodb,elasticsearch,redis,firebase,kafka,rabbitmq,unity&theme=dark" />
   </a>
 </p>
 
@@ -53,21 +53,15 @@
 
 ---
 
-<!-- ### 🚀  **Statistics** -->
+### 🚀  **Github Stats**
+<p align="center">
+  <img width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=ismailtelhouni&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=11c6c7&fire=FFFFFF&sideNums=11c6c7&currStreakLabel=11c6c7" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ismailtelhouni&count_private=true&&include_all_commits=true&show_icons=true&hide_border=true&theme=synthwave&title_color=11c6c7&bg_color=100,000000,000000&text_color=ffffff&icon_color=11c6c7&hide=issues" />
+</p>
 
-<details>
-  <summary><strong>🚀 Github Stats</strong></summary>
-
-
-  <img  src="http://github-readme-streak-stats.herokuapp.com?user=andrewgaabriel&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=11c6c7&fire=FFFFFF&sideNums=11c6c7&currStreakLabel=11c6c7"/>
-
-<!--  <img src="https://github-readme-stats.vercel.app/api?username=Andrewgaabriel&count_private=true&&include_all_commits=true&show_icons=true&hide_border=true&theme=synthwave&title_color=11c6c7&bg_color=100,000000,000000&text_color=ffffff&icon_color=11c6c7&hide=issues"/>
-  
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewgaabriel&layout=compact&theme=synthwave&title_color=11c6c7&hide_border=true&bg_color=100,000000,000000&text_color=ffffff" /> -->
-
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Andrewgaabriel&bg_color=000000&color=ffffff&line=11c6c7&point=ffffff&area=true&hide_border=true&radius=11)
-  
-</details>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailtelhouni&layout=compact&theme=synthwave&title_color=11c6c7&hide_border=true&bg_color=100,000000,000000&text_color=ffffff" />
+</p>
 
 
 
